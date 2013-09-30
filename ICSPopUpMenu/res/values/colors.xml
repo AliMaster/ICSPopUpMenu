@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="icspopmenu_item_bg_pressed">#097dad</color> <!-- ics弹出框 -->
+	<color name="icspopmenu_item_bg_normal">#000000</color> <!-- ics弹出框 -->
+	<color name="common_listview_divider">#097dad</color><!-- 列表分割线 --> 
+</resources>

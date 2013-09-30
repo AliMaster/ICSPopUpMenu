@@ -1,0 +1,3 @@
+<resources>
+	<dimen name="ics_popwindow_width">120dp</dimen><!-- ics弹出框宽度 -->
+</resources>
